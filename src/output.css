@@ -655,6 +655,10 @@ video {
   height: 0px;
 }
 
+.h-auto {
+  height: auto;
+}
+
 .w-8\/12 {
   width: 66.666667%;
 }
@@ -665,6 +669,10 @@ video {
 
 .w-9\/12 {
   width: 75%;
+}
+
+.w-1\/4 {
+  width: 25%;
 }
 
 .scale-50 {
