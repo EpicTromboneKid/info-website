@@ -28,6 +28,7 @@ fn home() -> Html {
                 <div class="flex items-center space-x-8">
                     <div>
                         <h1 class="text-7xl text-center font-semibold text-white">{"Hey 👋🏽! Welcome to my personal website!"}</h1>
+                        <h3 class="text-3xl text-center font-semibold text-white py-6">{"(this website was made entirely with the Rust Yew framework!)"}</h3>
                     </div>
                 </div>
             </div>

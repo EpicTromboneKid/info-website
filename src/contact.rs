@@ -8,7 +8,7 @@ pub fn contact() -> Html {
             <utils::TopBarDiv />
             <div class="bg-gradient-to-t from-green-950 to-green-900 h-screen w-full flex items-center justify-center grid grid-cols-3 gap-4 mx-auto p-4">
                 <div class="text-white font-bold text-5xl mx-auto text-center m-4 col-span-3">{"Feel free to contact me!"}
-                <h1 class="text-white font-bold text-2xl mx-auto col-span-3">{"(Most) of my social media usernames are EpicTromboneKid!"}</h1>
+                <h1 class="text-white font-bold text-2xl mx-auto col-span-3">{"(Most of) my social media usernames are EpicTromboneKid!"}</h1>
                 </div>
                 <div class="col-span-3 grid grid-cols-3 gap-4 place-items-stretch h-full w-full">
                     <a href="https://www.github.com/EpicTromboneKid" class="grid col-span-1 text-2xl font-semibold text-white mx-auto items-center text-center object-center rounded-lg border border-green-800 shadow-2xl h-full w-full flex justify-center overflow-hidden hover:shadow-inner hover:scale-90 focus:outline-none focus:ring-2 focus:ring-green-400">
